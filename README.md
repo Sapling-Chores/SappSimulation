@@ -1,4 +1,4 @@
-# CatchTheFishGame
-This is my very first fame in pygame. So recommend any changes or modification.
+# FirstPygame
+This project has simple physics simulation(or atleast what I have tried to do )
 
 ### 
